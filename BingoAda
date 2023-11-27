@@ -1,4 +1,8 @@
- public static void main(String[] args) {
+import java.util.*;
+
+public class Bingo19 {
+
+    public static void main(String[] args) {
 
         Scanner entradas = new Scanner(System.in);
         int escolhaJogo;
@@ -382,7 +386,7 @@
                         System.out.println("************************************************");
 
                         return true;
-                    } 
+                    }
                 }
             }
         }
