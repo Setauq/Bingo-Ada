@@ -19,6 +19,7 @@ public class Bingo19 {
         System.out.println();
         System.out.println("*************************************************************************************");
         System.out.println("*************************************************************************************");
+        System.out.println("*************************************************************************************");
 
 
         System.out.println("Olá escolha o tipo de jogo que você quer, Random ou Manual!");
